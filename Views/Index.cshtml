@@ -1,0 +1,9 @@
+<div>
+    <a asp-action="ExportExcel"><ejs-button id="exportbtn" content="Export" cssClass="e-info"></ejs-button></a>
+    <form asp-action="ImportExcel" enctype="multipart/form-data">
+        <div class="form-group">
+            <input type="file" name="file" />
+            <ejs-button id="importbtn" content="Import" cssClass="e-success" type="submit"></ejs-button>
+        </div>
+    </form>
+</div>
