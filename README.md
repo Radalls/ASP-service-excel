@@ -33,4 +33,4 @@ Le code est entièrement documenté pour comprendre son fonctionnement dans le d
 
 ## Auteur
 
-Léo SALLARD (Radalls), 2021
+Léo SALLARD, 2021
