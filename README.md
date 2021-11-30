@@ -23,7 +23,7 @@ Le code fourni n'a pas besoin d'être modifié pour fonctionner, hormis pour les
 - les références `using` manquantes
 - les références au contexte de base de donnée (probablement) non compatible.
 
-L'utilisation du module est présentée dans les Controllers donnés en exemple : `CompanyController.cs` et `AccountantController.cs`.
+L'utilisation du module est présentée dans les Controllers donnés en exemple : `FooController.cs` et `BarController.cs`.
 
 Il suffit, dans une méthode d'action d'un Controller, d'invoquer une instance de service `ExcelService` et d'appeler la méthode de service souhaitée en lui donnant les paramètres dont elle a besoin.
 
